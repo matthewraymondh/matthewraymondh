@@ -32,7 +32,7 @@
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>    
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://redux.js.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://nextjs.org/" target="_blank"> <img src="https://i.imgur.com/Iz7aQyl.png"/> </a> 
+    <a href="https://nextjs.org/" target="_blank"> <img src="https://i.imgur.com/7Eg9kCX.png"/> </a> 
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://i.imgur.com/3vtazt6.png"/> </a> 
 </p>
 
