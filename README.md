@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-    <a>
+    <a href="https://github.com/matthewraymondh/github-readme-stats">
         <img title="My github trophies 🔥" alt="Matthew Raymond's trophies" src="https://github-profile-trophy.vercel.app/?username=matthewraymondh&theme=discord&no-frame=true&no-bg=true" />
     </a>
 </p>
