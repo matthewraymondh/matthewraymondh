@@ -64,6 +64,9 @@
 <br/>
 <br/>
 
+## Watch my contribution graph get eaten by the snake 🐍
+![snake gif](https://github.com/matthewraymondh/matthewraymondh/blob/output/github-contribution-grid-snake.svg)
+
 ## Connect with me:
 <p align="left">
 
@@ -73,9 +76,6 @@
 
 
 </p>
-
-## Watch my contribution graph get eaten by the snake 🐍
-![snake gif](https://github.com/matthewraymondh/matthewraymondh/blob/output/github-contribution-grid-snake.svg)
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
