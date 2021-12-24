@@ -5,7 +5,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Matthew Raymond</h1>
 <h3 align="center">I'm a passionate Computer Science student from Indonesia.</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=matthewraymondh&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=matthewraymondh&theme=onedark&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🙋‍♂️ About Me
 
