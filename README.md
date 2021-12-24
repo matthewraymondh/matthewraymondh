@@ -47,7 +47,7 @@
 
 <p align="center">
     <a>
-        <img src="https://github-profile-trophy.vercel.app/?username=matthewraymondh&theme=discord&no-frame=true&no-bg=true" />
+        <img title="My github trophies 🔥" alt="Matthew Raymond's trophies" src="https://github-profile-trophy.vercel.app/?username=matthewraymondh&theme=discord&no-frame=true&no-bg=true" />
     </a>
 </p>
 
