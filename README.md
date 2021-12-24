@@ -51,7 +51,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My Github Stats
 
   <br/>
     <a href="https://github.com/matthewraymondh/github-readme-stats"><img alt="Matthew Raymond's Github Stats" src="https://github-readme-stats.vercel.app/api?username=matthewraymondh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
