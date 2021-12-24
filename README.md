@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://www.matthewraymond.me)**
 
-- 📫 How to reach me **matthewraymond2003@gmail.com**
+- 📫 How to reach me **matthewraymond.dev@gmail.com**
 
 
 ## 🚀 Languages and Tools:
