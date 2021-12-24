@@ -74,11 +74,11 @@
 
 </p>
 
+## Watch my contribution graph get eaten by the snake 🐍
+![snake gif](https://github.com/matthewraymondh/matthewraymondh/blob/output/github-contribution-grid-snake.svg)
+
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=matthewraymondh">
 </a>
 <a href="https://github.com/matthewraymondh?tab=followers"><img src="https://img.shields.io/github/followers/matthewraymondh?label=Followers&style=social" alt="GitHub Badge"></a>
-
-## Watch my contribution graph get eaten by the snake 🐍
-![snake gif](https://github.com/matthewraymondh/matthewraymondh/blob/output/github-contribution-grid-snake.svg)
