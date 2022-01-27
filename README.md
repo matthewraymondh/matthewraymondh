@@ -1,6 +1,6 @@
 <a href="#">
 <p align="center">
-<img width="50%" height="auto" src="https://i.imgur.com/jOSkEXS.png" height="175px"/></a>
+<img width="50%" height="auto" src="https://i.imgur.com/ymDRCLP.png" height="175px"/></a>
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Matthew Raymond</h1>
 <h3 align="center">I'm a passionate Computer Science student from Indonesia.</h3>
