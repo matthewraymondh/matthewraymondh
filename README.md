@@ -35,6 +35,7 @@
     <a href="https://redux.js.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://nextjs.org/" target="_blank"> <img src="https://i.imgur.com/7Eg9kCX.png"/> </a> 
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://i.imgur.com/3vtazt6.png"/> </a>
+    <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a>
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
 </p>
 
