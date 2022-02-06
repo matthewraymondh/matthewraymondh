@@ -17,6 +17,8 @@
 
 - 📫 How to reach me **matthewraymond.dev@gmail.com**
 
+- 📖 **[My blog](https://matthewraymond-blog.vercel.app/)**
+
 
 ## 🚀 Languages and Tools:
 
