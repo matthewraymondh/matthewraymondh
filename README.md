@@ -9,6 +9,8 @@
 
 - 🔭 I’m currently studying at **Dian Nuswantoro University**
 
+- 👩‍💻 Currently active as fivem server head developer
+
 - 🌱 I’m currently learning **Software and Web Development**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
