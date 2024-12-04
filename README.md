@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently studying at **Dian Nuswantoro University**
 
-- 👩‍💻 Currently active as fivem server head developer
+- 👩‍💻 Currently active as **ERP Project Manager**
 
 - 🌱 I’m currently learning **Mobile and Web Development, Machine Learning/AI, IoT**
 
