@@ -58,7 +58,11 @@
 <br/>
 
 ## Watch my contribution graph get eaten by the snake 🐍
-![snake gif](https://github.com/matthewraymondh/matthewraymondh/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/matthewraymondh/matthewraymondh/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/matthewraymondh/matthewraymondh/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/matthewraymondh/matthewraymondh/blob/output/github-snake.svg" />
+</picture>
 
 ## Connect with me:
 <p align="left">
