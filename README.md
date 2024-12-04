@@ -52,7 +52,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/matthewraymondh/github-readme-activity-graph"><img alt="Matthew Raymond's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=matthewraymondh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![Matthew Raymond's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=matthewraymondh&bg_color=0d1117&color=5fd6f6&line=54bad7&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 <br/>
