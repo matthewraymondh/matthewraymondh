@@ -7,8 +7,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently studying at **Dian Nuswantoro University**
-
 - 👩‍💻 Currently active as a **Supervisor of Web and Mobile Development** at **PT Erlangga Edi Laboratories (ERELA)**
 
 - 🌱 I’m currently learning and working with **Generative AI (LLMs), Full-Stack Development (Next.js, Flutter), and Cloud Technologies**.
