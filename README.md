@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **AI-driven and Full-Stack Open Source Projects**.
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://www.matthewraymond.me)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://www.matthewraymond.dev)**
 
 - 📫 How to reach me **matthewraymond.dev@gmail.com**
 
